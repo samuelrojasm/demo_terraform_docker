@@ -26,9 +26,9 @@
 
 | Ejemplo                       | Descripción                                       |
 |-------------------------------|---------------------------------------------------|
-| [`01_build_image`]()             | Crear una imagen Docker desde imagen base         |
-| `02_run_container`           | Ejecutar un contenedor simple con Terraform       |
-| `03_image_from_dockerfile`   | Construir imagen a partir de un Dockerfile local  |
+| [`01_build_image`](https://github.com/samuelrojasm/demo_terraform_docker/tree/main/labs_iniciales/01_build_image) | Crear una imagen Docker desde imagen base |
+| [`02_run_container`](https://github.com/samuelrojasm/demo_terraform_docker/tree/main/labs_iniciales/02_run_container) | Ejecutar un contenedor simple con Terraform |
+| [`03_image_from_dockerfile`](https://github.com/samuelrojasm/demo_terraform_docker/tree/main/labs_iniciales/03_image_from_dockerfile) | Construir imagen a partir de un Dockerfile local |
 
 ---
 
