@@ -26,9 +26,9 @@
 
 | Ejemplo                       | Descripción                                       |
 |-------------------------------|---------------------------------------------------|
-| `01-build-image/`             | Crear una imagen Docker desde imagen base         |
-| `02-run-container/`           | Ejecutar un contenedor simple con Terraform       |
-| `03-image-from-dockerfile/`   | Construir imagen a partir de un Dockerfile local  |
+| [`01_build_image`]()             | Crear una imagen Docker desde imagen base         |
+| `02_run_container`           | Ejecutar un contenedor simple con Terraform       |
+| `03_image_from_dockerfile`   | Construir imagen a partir de un Dockerfile local  |
 
 ---
 
