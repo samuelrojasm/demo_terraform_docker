@@ -9,9 +9,9 @@
 #
 # ==================================================================================
 resource "docker_image" "custom_image" {
-  name         = "my-custom-image:latest"
+  name = "my-custom-image:latest"
   build {
-    context    = "${path.module}"
+    context    = path.module
     dockerfile = "${path.module}/Dockerfile"
   }
 }
