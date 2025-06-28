@@ -39,7 +39,9 @@
 
 ---
 
-## 🛠️ Licencia
-Este proyecto está licenciado bajo la licencia MIT.
+## 📝 Licencia
+Este repositorio está disponible bajo la licencia MIT.  
+Puedes usar, modificar y compartir libremente el contenido, incluso con fines comerciales.  
+Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.
 
 ---
